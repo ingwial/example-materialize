@@ -1,0 +1,58 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+pre{
+      padding: 16px 20px 0px;
+    background: #eee;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.info{
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.videofondo { 
+	position: fixed; 
+	bottom: 0px; 
+	right: 0px; 
+	min-width: 100%; 
+	min-height: 100%; 
+	width: auto; 
+	height: auto; 
+	z-index: -1000; 
+	overflow: hidden; 
+}
+.menu{
+	width: 85% !important;
+	text-align: center;
+}
+.menu a{
+
+}
+.myblack{
+	background: #00000067;
+	padding: 20px;
+	margin: 90px auto;
+	border-radius: 8px;
+	color:white;
+}
+.myblack label{
+	color: white;
+}
+.contenido{
+	width: 100%;
+	background: #ffffff99;
+	padding: 30px;
+}
